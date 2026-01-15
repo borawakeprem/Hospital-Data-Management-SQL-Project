@@ -1,6 +1,6 @@
  Hospital-Data-Management-SQL-Project
  
-📁 File Description 
+📁 Project Description 
 
 This file contains the core implementation and data structure used in the project. It is responsible for defining, managing, and operating on the project’s data in a structured and efficient way.
 
